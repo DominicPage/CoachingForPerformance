@@ -162,7 +162,7 @@ section .content {
 }
 
 .hero-image {
-    background-image: url('/assets/images/stock_4.jpg'); 
+    background-image: url('./assets/images/stock_4.jpg'); 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
